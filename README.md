@@ -96,16 +96,16 @@ and on the Layer3 (Network) abusing the protocol.
 
   On other systems such as: Kali, Ubuntu, ArchLinux, ParrotSec, Fedora, etc... also run:
 
-       pip3 install GeoIP
-       pip3 install python-geoip
-       pip3 install pygeoip
-       pip3 install requests
-       pip3 install pycrypto
-       pip3 install pycurl
-       pip3 install whois
-       pip3 install scapy-python3
+       pip3 install GeoIP -y
+       pip3 install python-geoip -y
+       pip3 install pygeoip -y
+       pip3 install requests -y
+       pip3 install pycrypto -y
+       pip3 install pycurl -y
+       pip3 install whois -y
+       pip3 install scapy-python3 -y
 
-####  Source libs:
+#####  Source libs:
 
    * Python: https://www.python.org/downloads/
    * PyCurl: http://pycurl.sourceforge.net/
@@ -118,9 +118,9 @@ and on the Layer3 (Network) abusing the protocol.
    * Scapy-Python3: https://pypi.org/project/scapy-python3/
    * Leaflet: http://leafletjs.com/ (provided)
 
-----------
+---------------
 
-####  License:
+#####  License:
 
   UFONet is released under the GPLv3. You can find the full license text
 in the [LICENSE](./docs/LICENSE) file.
